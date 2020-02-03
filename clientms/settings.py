@@ -168,3 +168,5 @@ EMAIL_HOST_USER = 'anusha.vrf108@gmail.com'
 EMAIL_HOST_PASSWORD = 'manda1995'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
+
+CRISPY_TEMPLATE_PACK = 'bootstrap4'
