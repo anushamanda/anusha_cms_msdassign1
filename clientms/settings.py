@@ -31,7 +31,7 @@ ALLOWED_HOSTS = ['*']
 
 AUTH_USER_MODEL = 'users.CustomUser'
 # Application definition
-CRISPY_TEMPLATE_PACK = 'bootstrap4'
+
 
 INSTALLED_APPS = [
     'django.contrib.admin',
